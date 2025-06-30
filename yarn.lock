@@ -12100,9 +12100,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"spectrum-visualizer-demo@workspace:.":
+"audio-spectro-demo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "spectrum-visualizer-demo@workspace:."
+  resolution: "audio-spectro-demo@workspace:."
   dependencies:
     "@emotion/react": "npm:11.13.3"
     "@emotion/styled": "npm:11.13.0"

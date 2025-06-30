@@ -3,8 +3,8 @@
 A demo application for a custom spectrum sound visualization component.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlucifer27/audio-spectro-demo/main/assets/recording-dark-theme.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlucifer27/audio-spectro-demo/main/assets/recording-light-theme.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlucifer27/audio-spectro-demo/master/assets/recording-dark-theme.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlucifer27/audio-spectro-demo/master/assets/recording-light-theme.gif">
   <img alt="GIF recording of the audio spectro in action">
 </picture>
 
